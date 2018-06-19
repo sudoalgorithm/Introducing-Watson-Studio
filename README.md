@@ -5,7 +5,7 @@ In this code lab we will go through **Watson Studio** and understand how to use 
 **Watson Studio** is a cloud based development and deployment environment for **Machine Learning, Deep Learning, Data Governance and Data Expolaration.** A platform build for business analyst, data engineer, data scientist and developer to simply there task with an intuitive UI and provide massive computing power.
 A platform where insights can be traced back to models, projects, notebooks and data sources and where model can evolve and automatically update themselves.
 
-![alt text](https://raw.github.ibm.com/Kunal-Malhotra1/Introducing-Watson-Studio/master/assets/Screen%20Shot%202018-04-08%20at%2011.05.22%20PM.png?token=AAH1NElAqJFwqTDYdPhEUWic9WJf--0Rks5a06N-wA%3D%3D)
+![alt text](https://raw.githubusercontent.com/sudoalgorithm/Introducing-Watson-Studio/master/assets/Screen%20Shot%202018-04-08%20at%2011.05.22%20PM.png)
 
 ## Create Watson Studio Account
 
@@ -24,12 +24,12 @@ A platform where insights can be traced back to models, projects, notebooks and 
 6. Click on **Create**.
 
 
-[![Watch the video](https://raw.github.ibm.com/Kunal-Malhotra1/Introducing-Watson-Studio/master/assets/Screen%20Shot%202018-04-09%20at%2011.11.12%20AM.png?token=AAH1NIgLGfNsOESo5R4t3kdbM-fSEkmCks5a1FBEwA%3D%3D)](https://youtu.be/DdG_ObhgujU)
+[![Watch the video](https://raw.githubusercontent.com/sudoalgorithm/Introducing-Watson-Studio/master/assets/Screen%20Shot%202018-04-09%20at%2011.11.12%20AM.png)](https://youtu.be/DdG_ObhgujU)
 <p align="center"><em>Note:- Click on the image to play the video</em></p>
 
 7. You will be taken to the main page of the service. Click on **Get Started**.
 
-![alt text](https://raw.github.ibm.com/Kunal-Malhotra1/Introducing-Watson-Studio/master/assets/Screen%20Shot%202018-04-09%20at%2011.37.15%20AM.png?token=AAH1NJwL4yGzsecPuYCWrvhOAXk0-N5oks5a1FMSwA%3D%3D)
+![alt text](https://raw.githubusercontent.com/sudoalgorithm/Introducing-Watson-Studio/master/assets/Screen%20Shot%202018-04-09%20at%2011.37.15%20AM.png)
 
 ##  Creating A Project in Watson Studio
 
@@ -40,7 +40,7 @@ A platform where insights can be traced back to models, projects, notebooks and 
 5. Click on **Create**.
 
 
-[![Watch the video](https://raw.github.ibm.com/Kunal-Malhotra1/Introducing-Watson-Studio/master/assets/Screen%20Shot%202018-04-09%20at%2012.08.29%20PM.png?token=AAH1NCx537zHJK8EkIvTqSlrQts1l0cUks5a1Fr4wA%3D%3D)](https://youtu.be/I6JQ7-dxZXA)
+[![Watch the video](https://raw.githubusercontent.com/sudoalgorithm/Introducing-Watson-Studio/master/assets/Screen%20Shot%202018-04-09%20at%2012.08.29%20PM.png)](https://youtu.be/I6JQ7-dxZXA)
 <p align="center"><em>Note:- Click on the image to play the video</em></p>
 
 ## Creating/Importing Notebooks into Watson Studio
@@ -55,17 +55,17 @@ A platform where insights can be traced back to models, projects, notebooks and 
 5. Click on the **Create Notebook** button.
 
 
-[![Watch the video](https://raw.github.ibm.com/Kunal-Malhotra1/Introducing-Watson-Studio/master/assets/Screen%20Shot%202018-04-09%20at%202.33.55%20PM.png?token=AAH1NEHqYn7lm2fN7suj5zoVt-pn_T6Mks5a1HyOwA%3D%3D)](https://youtu.be/_STAD-rbPxo)
+[![Watch the video](https://raw.githubusercontent.com/sudoalgorithm/Introducing-Watson-Studio/master/assets/Screen%20Shot%202018-04-09%20at%202.33.55%20PM.png)](https://youtu.be/_STAD-rbPxo)
 <p align="center"><em>Note:- Click on the image to play the video</em></p>
 
 ## Importing Data into Object Storage.
 
 Watson Studio allows us to access data from different data storage option on IBM Cloud. Most recommended one is Object Storage.
 
-1. Click on this button ![alt text](https://raw.github.ibm.com/Kunal-Malhotra1/Introducing-Watson-Studio/master/assets/Screen%20Shot%202018-04-09%20at%203.30.03%20PM.png?token=AAH1NBfvS3Wd7cAcNxUaEPMgY3x4-VBeks5a1I4xwA%3D%3D) on the right navigation bar.
+1. Click on this button ![alt text](https://raw.githubusercontent.com/sudoalgorithm/Introducing-Watson-Studio/master/assets/Screen%20Shot%202018-04-09%20at%203.30.03%20PM.png) on the right navigation bar.
 2. Click on the **Load** tab.
 3. You can directly drap and drop file in the space or click on **browse** button.
 5. You will be able to see the data files which are getting uploaded into your project on the navigation bar.
 
-[![Watch the video](https://raw.github.ibm.com/Kunal-Malhotra1/Introducing-Watson-Studio/master/assets/Screen%20Shot%202018-04-09%20at%203.45.14%20PM.png?token=AAH1NHBITCIv0qdRXYLyz4sal0zgF6qbks5a1I6HwA%3D%3D)](https://youtu.be/cKNVnqQF308)
+[![Watch the video](https://raw.githubusercontent.com/sudoalgorithm/Introducing-Watson-Studio/master/assets/Screen%20Shot%202018-04-09%20at%203.45.14%20PM.png)](https://youtu.be/cKNVnqQF308)
 <p align="center"><em>Note:- Click on the image to play the video</em></p>
